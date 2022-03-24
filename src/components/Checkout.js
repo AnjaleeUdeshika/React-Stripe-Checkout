@@ -26,8 +26,8 @@ const Checkout = () => {
   const checkoutOptions = {
     lineItems: [item],
     mode: "payment",
-    successUrl: `${window.location.origin}/success`,
-    cancelUrl: `${window.location.origin}/cancel`,
+//     successUrl: `${window.location.origin}/success`,
+//     cancelUrl: `${window.location.origin}/cancel`,
     customerEmail: "hello@donet.com",
   };
 
