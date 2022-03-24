@@ -47,7 +47,7 @@ const Checkout = () => {
 
   return (
     <div className="checkout">
-      <h1>Butter Choclate glazed donets</h1>
+      <h1>Butter Choclate Glazed Donets</h1>
       <h1 className="checkout-price">$1</h1>
       <img
         className="checkout-product-image"
